@@ -1,0 +1,28 @@
+## Main command prompts
+
+# Creating folder
+mkdir IOT_perusteet
+cd IOT_perusteet
+
+# Initialize project and create package.json file
+npm init -y
+
+# Install express, a web framework
+npm install express
+
+# Run server
+node server.js
+
+
+
+
+## Other useful command prompts
+
+# initialize empty git repo
+git init
+
+# Change branch name from master to main
+git branch -m master main
+
+# Directing file
+git remote add origin (Plain URL to repository)
