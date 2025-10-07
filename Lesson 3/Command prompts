@@ -1,0 +1,25 @@
+# Database setup
+npm install express sqlite3
+
+# Delete information from chosen port
+npx kill port xxxx
+
+# Run the server
+node server2.js
+
+# Open SQL
+sqlite3 databasename.db
+
+
+
+
+# SQL prompts
+
+# See tables
+.tables
+
+# Select all from users table
+SELECT * users;
+
+# Check structure of table
+PRAGMA table_info(users);
