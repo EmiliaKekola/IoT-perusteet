@@ -1,15 +1,15 @@
-Lesson 1 - 10 files <br>
+Lesson 1 - 10 files <br><br>
 
-1. Numbers 0–9
-2. Ask name
-3. Blink the LED
-4. Optimized blinking
-5. Blink external LED
-6. LED on with button
-7. Traffic lights
-8. Interrupt
-10. Weather station
-11. Weather station with backend
+Numbers 0–9
+Ask name<br>
+Blink the LED<br>
+Optimized blinking<br>
+Blink external LED<br>
+LED on with button<br>
+Traffic lights<br>
+Interrupt<br>
+Weather station<br>
+Weather station with backend<br>
 <br>
 <br>
 
