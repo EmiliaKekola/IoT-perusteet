@@ -1,4 +1,4 @@
-Lesson 1 - 10 files
+Lesson 1 - 10 files <br>
 
 1. Numbers 0–9
 2. Ask name
@@ -10,7 +10,8 @@ Lesson 1 - 10 files
 8. Interrupt
 10. Weather station
 11. Weather station with backend
-
+<br>
+<br>
 
 Lesson 2 - 4 files
 
