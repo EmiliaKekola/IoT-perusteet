@@ -1,0 +1,12 @@
+import time
+import machine
+
+time.sleep(0.1)  # Wait for USB to become ready
+
+led_onboard = machine.Pin("LED", machine.Pin.OUT)
+
+while True:
+    led_onboard.on()
+    time.sleep(1)
+    led_onboard.off()
+    time.sleep(1)
