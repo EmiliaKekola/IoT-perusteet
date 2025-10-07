@@ -1,4 +1,4 @@
-#Lesson 1 - 10 files
+Lesson 1 - 10 files
 
 1. Numbers 0–9
 2. Ask name
@@ -12,7 +12,7 @@
 11. Weather station with backend
 
 
-#Lesson 2 - 4 files
+Lesson 2 - 4 files
 
 Command prompts
 Weather station with backend
@@ -20,13 +20,13 @@ Wokwi - Hello Studen 12C
 server.js
 
 
-#Lesson 3 - 2 files
+Lesson 3 - 2 files
 
 Command prompts
 server2.js
 
 
-#Lesson 4 -  5 files
+Lesson 4 -  5 files
 
 Webhook server.js 
 Websocket server.js
