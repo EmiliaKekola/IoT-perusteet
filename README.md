@@ -14,28 +14,26 @@ Lesson 1 - 10 files <br>
 <br>
 
 Lesson 2 - 4 files
-
-Command prompts
-Weather station with backend
-Wokwi - Hello Studen 12C
+<br>
+Command prompts<br>
+Weather station with backend<br>
+Wokwi - Hello Studen 12C<br>
 server.js
-
+<br><br>
 
 Lesson 3 - 2 files
-
-Command prompts
+<br>
+Command prompts<br>
 server2.js
-
+<br><br>
 
 Lesson 4 -  5 files
-
-Webhook server.js 
-Websocket server.js
-Websocket_client.html
-fetch_temperature.js
+<br>
+Webhook server.js <br>
+Websocket server.js<br>
+Websocket_client.html<br>
+fetch_temperature.js<br>
 fetch_temperature.html
 
-
-Webhook server.js & html
 Websocket server.js
 fetch_temperature .js & html
